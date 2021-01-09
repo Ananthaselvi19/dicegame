@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    /* background: -webkit-linear-gradient(left, #008891, #a7c5eb); */
+    background-color: #008891;
+    color: white;
+}
+
+.image {
+    border: solid 2px;
+    border-radius: 17%;
+    width: 40%;
+}
+
+h1 {
+    padding: 5% 15%;
+    font-size: 5rem;
+}
+
+h3 {
+    padding: 5% 15%;
+    font-size: 2rem;
+}
